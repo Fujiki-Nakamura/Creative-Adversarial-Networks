@@ -1,6 +1,7 @@
 # Creative-Adversarial-Networks
 
 ## dataset
+- not work
 ```
 $ mkdir data
 $ cd data
